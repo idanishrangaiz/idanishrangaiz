@@ -115,7 +115,7 @@ Custom WordPress Developer
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-![SEO](https://img.shields.io/badge/SEO-%2318f7F2.svg?logo==mongodb&logoColor=white) 
+![SEO](https://img.shields.io/badge/SEO-%2318f7F2.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 ***
 

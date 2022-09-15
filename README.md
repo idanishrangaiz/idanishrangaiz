@@ -4,13 +4,13 @@
 
 ## About Me :
 
-####  An ELITE Custom WordPress Developer plus Front End Developer on UpWork, Fiverr specializing in Theme Development, Theme Customization, Plugin Customization, Elementor Pro, PHP, Divi, HTML to WordPress, ACF plugin, HTML, CSS, BOOTSTRAP, JQuery, JavaScript, Ajax, and SQLi, Shopify, Web Flow, Database Development, concerning Full Website Customization. I am available 24 hours a day, & 7 days a week.
+#####  An ELITE Custom WordPress Developer plus Front End Developer on UpWork, Fiverr specializing in Theme Development, Theme Customization, Plugin Customization, Elementor Pro, PHP, Divi, HTML to WordPress, ACF plugin, HTML, CSS, BOOTSTRAP, JQuery, JavaScript, Ajax, and SQLi, Shopify, Web Flow, Database Development, concerning Full Website Customization. I am available 24 hours a day, & 7 days a week.
 
-#### I am a true all-around assistant with the ability to multitask & handle all aspects of WordPress Website Developer, Front-End projects & SEO, while increasing overall productivity with efficient work.
+##### I am a true all-around assistant with the ability to multitask & handle all aspects of WordPress Website Developer, Front-End projects & SEO, while increasing overall productivity with efficient work.
 
-#### I have an advanced education with a Master's Degree and multiple Graduate Certificates I have completed hundreds of varied tasks and I have an immense skill set. I am hard-working, meticulous, & efficient. I will provide exemplary work with quick turnaround times.
+##### I have an advanced education with a Master's Degree and multiple Graduate Certificates I have completed hundreds of varied tasks and I have an immense skill set. I am hard-working, meticulous, & efficient. I will provide exemplary work with quick turnaround times.
 
-#### I have worked with 🌟High Profile Clients🌟 in my career with the following skillset to illustrate:
+##### I have worked with 🌟High Profile Clients🌟 in my career with the following skillset to illustrate:
 
 ***
 

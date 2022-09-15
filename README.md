@@ -87,14 +87,14 @@ Custom WordPress Developer
 ####  I can be reached anytime via Social Accounts. You can catch me through Following Links:
 
 ## 🌐Socials:
-[![Upwork](https://img.shields.io/badge/Upwork-%23177F2.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0131cc70a94b15c350)__ 
-[![Fiverr](https://img.shields.io/badge/Fiverr-%23877F2.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/danishrangaiz)__
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=linkedin&logoColor=white)](https://Linkedin.com/in/danishrangaiz/)__
-[![Skype](https://img.shields.io/badge/Skype-%231977F2.svg?logo=skype&logoColor=white)](https://join.skype.com/invite/vnN8KCsAcmbH)__
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-%23177F2.svg?logo=whatsapp&logoColor=white)](https://wa.me/923425332212)__
-[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://twitter.com/idanishrangaiz)__
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/idanishrangaiz)__
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/idanishrangaiz) 
+[![Upwork](https://img.shields.io/badge/Upwork-%23177F2.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0131cc70a94b15c350)   
+[![Fiverr](https://img.shields.io/badge/Fiverr-%23877F2.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/danishrangaiz)  
+[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=linkedin&logoColor=white)](https://Linkedin.com/in/danishrangaiz/)  
+[![Skype](https://img.shields.io/badge/Skype-%231977F2.svg?logo=skype&logoColor=white)](https://join.skype.com/invite/vnN8KCsAcmbH)  
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-%23177F2.svg?logo=whatsapp&logoColor=white)](https://wa.me/923425332212)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://twitter.com/idanishrangaiz)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/idanishrangaiz)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/idanishrangaiz)  
 
 ***
 

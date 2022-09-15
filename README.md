@@ -94,7 +94,7 @@ Custom WordPress Developer
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%23177F2.svg?logo=whatsapp&logoColor=white)](https://wa.me/923425332212) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://twitter.com/idanishrangaiz) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/idanishrangaiz) 
-[![Instagram](https://img.shields.io/badge/Instagram-%DF2C77.svg?logo=Instagram&logoColor=white)](https://instagram.com/idanishrangaiz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23D42029.svg?logo=Instagram&logoColor=white)](https://instagram.com/idanishrangaiz) 
 
 ***
 

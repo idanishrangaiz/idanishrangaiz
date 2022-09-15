@@ -12,59 +12,64 @@
 
 #### I have worked with 🌟High Profile Clients🌟 in my career with the following skillset to illustrate:
 
-#### ✪ A SERVICE I OFFER AS A WORDPRESS EXPERT:
-✅ Theme Development
-✅ Theme Customization
-✅ Responsive Website
-✅ PSD to WordPress
-✅ Figma to WordPress
-✅ HTML to WordPress
-✅ XD to WordPress
-✅ ELEMENTOR PRO
-✅ DIVI Builders
-✅ Custom Post UI
-✅ WP Bakery & Avada
-✅ Woocommerce Customization
-✅ Plugin Customization
-✅ Widget Shortcodes
-✅ eCommerce Websites
-✅ Woocommerce Store
-✅ Shopify Website
-✅ WebFlow Websites
-✅ API Configuration
-✅ Payment Integration
-✅ Chat Support Integration
+***
 
+#### ✪ A SERVICE I OFFER AS A WORDPRESS EXPERT:
+- Theme Development
+- Theme Customization
+- Responsive Website
+- PSD to WordPress
+- Figma to WordPress
+- HTML to WordPress
+- XD to WordPress
+- ELEMENTOR PRO
+- DIVI Builders
+- Custom Post UI
+- WP Bakery & Avada
+- Woocommerce Customization
+- Plugin Customization
+- Widget Shortcodes
+- eCommerce Websites
+- Woocommerce Store
+- Shopify Website
+- WebFlow Websites
+- API Configuration
+- Payment Integration
+- Chat Support Integration
+
+***
 
 #### ✪ A SERVICE I OFFER AS A FRONT-END EXPERT:
-✅ PSD to HTML
-✅ XD to HTML
-✅ HTML & HTML5
-✅ Portfolio Website
-✅ Eye-Catching Templates
-✅ Responsive Website
-✅ Git
-✅ GitHub
-✅ CSS & CSS3
-✅ BOOTSTRAP
-✅ JQuery
-✅ Java Script
-✅ Ajax
-✅ PHP
-✅ MY SQLi
-✅ Database Development
+- PSD to HTML
+- XD to HTML
+- HTML & HTML5
+- Portfolio Website
+- Eye-Catching Templates
+- Responsive Website
+- Git
+- GitHub
+- CSS & CSS3
+- BOOTSTRAP
+- JQuery
+- Java Script
+- Ajax
+- PHP
+- MY SQLi
+- Database Development
+
+---
 
 #### ✪ Premium Themes & Plugins:
-💚 Elementor Pro
-💚 Divi Builder & Theme
-💚 Avada Theme
-💚 Wp Bakery & Beaver
-💚 UP Store Theme
-💚 Canva
-💚 Adobe
-💚 Ahref
-💚 Moz
-💚 Smrush
+- Elementor Pro
+- Divi Builder & Theme
+- Avada Theme
+- Wp Bakery & Beaver
+- UP Store Theme
+- Canva
+- Adobe
+- Ahref
+- Moz
+- Smrush
 
 I am negotiable on price & always up for a challenge. I am eager to help and look forward to serving you!
 
